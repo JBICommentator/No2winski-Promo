@@ -1,11 +1,26 @@
 
-<Version: 1.04>
+<Version: 1.05>
 /img/characters/jbi_ch https://i.imgur.com/lgJp53Y.png
+/data/Actors.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Actors.json
+/data/Animations.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Animations.json
+/data/Armors.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Armors.json
+/data/BattleHUD.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/BattleHUD.json
+/data/Classes.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Classes.json
+/data/DataEX.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/DataEX.json
 /data/Enemies.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Enemies.json
+/data/Items.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Items.json
 /data/Map001.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Map001.json
+/data/Map002.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Map002.json
+/data/Map003.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Map003.json
+/data/Map004.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Map004.json
+/data/MapHUD.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/MapHUD.json
 /data/MapInfos.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/MapInfos.json
+/data/Notes.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Notes.json
 /data/Skills.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Skills.json
 /data/States.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/States.json
 /data/System.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/System.json
+/data/Tilesets.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Tilesets.json
 /data/Troops.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Troops.json
+/data/Weapons.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Weapons.json
+/data/Windows.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Windows.json
 <End of Version>
