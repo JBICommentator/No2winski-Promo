@@ -1,5 +1,5 @@
 
-<Version: 1.02>
+<Version: 1.03>
 /img/characters/jbi_ch https://i.imgur.com/lgJp53Y.png
 /data/Actors.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Actors.json
 /data/Classes.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Classes.json
