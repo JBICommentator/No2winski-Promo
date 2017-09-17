@@ -1,3 +1,13 @@
 
-<Version: 1.00>
+<Version: 1.01>
+/data/Actors.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Actors.json
+/data/Classes.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Classes.json
+/data/Enemies.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Enemies.json
+/data/Map001.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Map001.json
+/data/MapInfos.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/MapInfos.json
+/data/Notes.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Notes.json
+/data/Skills.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Skills.json
+/data/States.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/States.json
+/data/System.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/System.json
+/data/Troops.json https://raw.githubusercontent.com/JBICommentator/No2winski-Promo/master/Troops.json
 <End of Version>
